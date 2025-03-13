@@ -54,9 +54,8 @@ nav#navbar div.box.side-nav a span {
 	left: 50%;
 	width: 20px;
 	height: 20px;
-	rotate: 45deg;
 	z-index: 2;
-	transform: translate(-50%, -50%);
+	transform: rotate(45deg), translate(-50%, -50%);
 	background-color: rgba(255, 255, 255, 0);
 
 	transition: background 0.1s;
