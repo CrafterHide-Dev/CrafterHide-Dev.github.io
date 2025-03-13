@@ -1,0 +1,42 @@
+nav#navbar {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+
+	border-bottom: 1px solid rgba(255, 43, 88, 1);
+
+	box-shadow: 0px 5px 20px -5px rgba(255,43,88,1);
+	-webkit-box-shadow: 0px 5px 20px -5px rgba(255,43,88,1);
+	-moz-box-shadow: 0px 5px 20px -5px rgba(255,43,88,1);
+}
+
+nav#navbar div.box {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+}
+nav#navbar div.box.side-nav {
+	flex-basis: 0;
+	flex-grow: 1;
+}
+nav#navbar div.box.middle-nav {
+
+}
+
+nav#navbar div.box a {
+	padding: 10px;
+	font-size: 20px;
+
+}
+nav#navbar div.box.middle-nav a {
+
+}
+nav#navbar div.box.middle-nav a:hover {
+
+}
+nav#navbar div.box.middle-nav a {
+
+}
+nav#navbar div.box.middle-nav a:hover {
+
+}
