@@ -62,7 +62,7 @@ nav#navbar div.box.side-nav a span {
 	transition: background 0.1s;
 }
 nav#navbar div.box.side-nav a:hover span {
-	background-color: rgba(255, 255, 255, 0.75);
+	background-color: rgba(255, 255, 255, 0.25);
 
 	transition: background 0.1s;
 }
