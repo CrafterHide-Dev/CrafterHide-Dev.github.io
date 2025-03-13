@@ -35,12 +35,12 @@ nav#navbar div.box a {
 nav#navbar div.box.middle-nav a {
 	font-weight: 900;
 	color: gold;
-	margin: 0;
+	margin: 0 5px;
 
 	transition: margin 0.1s;
 }
 nav#navbar div.box.middle-nav a:hover {
-	margin: 10px 0;
+	margin: 0 20px;
 
 	transition: margin 0.1s;
 }
@@ -48,5 +48,5 @@ nav#navbar div.box.middle-nav a {
 
 }
 nav#navbar div.box.middle-nav a:hover {
-	
+
 }
