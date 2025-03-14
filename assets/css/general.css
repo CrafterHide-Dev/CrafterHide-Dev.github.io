@@ -4,6 +4,10 @@
 	font-family: "Ubuntu", monospace;
 }
 
+html, body {
+	cursor: url("./assets/images/cursor/cursor.ico"), default;
+}
+
 body {
 	display: flex;
 	flex-direction: column;
